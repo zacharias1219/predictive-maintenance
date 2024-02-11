@@ -1,6 +1,6 @@
-# predictive-maintenance
+# Predictive Maintenance
 
-# Problem Statement
+## Problem Statement
 
 In industry, prognostics and health management are key topics for anticipating asset
 state and avoiding downtime and breakdowns. Run-to-Failure simulation data from
@@ -13,11 +13,11 @@ The main goal is to predict the remaining useful life (RUL) of each engine. RUL 
 equivalent of number of flights remained for the engine after the last data point in the
 test dataset.
 
-# Approach:
+## Approach:
 
 The classical machine learning tasks like Data Exploration, Data Cleaning,
 Feature Engineering, Model Building and Model Testing.
 
-# Dataset
+## Dataset
 
 Link :- [Dataset](https://www.kaggle.com/datasets/behrad3d/nasa-cmaps/data)
