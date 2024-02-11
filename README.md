@@ -1,6 +1,7 @@
 # predictive-maintenance
 
-# Problem Statement:
+# Problem Statement
+
 In industry, prognostics and health management are key topics for anticipating asset
 state and avoiding downtime and breakdowns. Run-to-Failure simulation data from
 turbofan jet engines is included.
@@ -13,8 +14,10 @@ equivalent of number of flights remained for the engine after the last data poin
 test dataset.
 
 # Approach:
+
 The classical machine learning tasks like Data Exploration, Data Cleaning,
 Feature Engineering, Model Building and Model Testing.
 
-# Dataset 
+# Dataset
+
 Link :- [Dataset](https://www.kaggle.com/datasets/behrad3d/nasa-cmaps/data)
